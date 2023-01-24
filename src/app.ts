@@ -12,3 +12,4 @@ cron.schedule('0 * * * *', async () => {
     console.error(error instanceof Error ? error.message : error)
   }
 })
+console.log('App started!')
