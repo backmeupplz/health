@@ -14,7 +14,7 @@
     "lint": "yarn pretty && eslint --max-warnings 0 --ext ts,tsx,json src"
   },
   "dependencies": {
-    "@standard-crypto/farcaster-js": "^5.5.1",
+    "@standard-crypto/farcaster-js": "^5.5.2",
     "dotenv": "^16.0.3",
     "envalid": "^7.3.1",
     "node-cron": "^3.0.2"
