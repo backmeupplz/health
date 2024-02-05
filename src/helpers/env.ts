@@ -7,5 +7,6 @@ dotenv.config({ path: resolve(cwd(), '.env') })
 
 // eslint-disable-next-line node/no-process-env
 export default cleanEnv(process.env, {
-  FARCASTER_MNEMONIC: str(),
+  NEYNAR_API_KEY: str(),
+  NEYNAR_UUID: str(),
 })
