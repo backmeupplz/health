@@ -11,7 +11,5 @@
     "typescript",
     "typescriptreact"
   ],
-  "cSpell.words": [
-    "NEYNAR"
-  ]
+  "cSpell.words": ["NEYNAR", "rushstack", "Viem"]
 }
