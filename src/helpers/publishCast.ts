@@ -28,7 +28,7 @@ import {
 } from 'viem/actions'
 import { optimism } from 'viem/chains'
 
-const HUB_URL = '34.172.154.21:3383'
+const HUB_URL = '3.230.187.250:3383'
 const FC_NETWORK = FarcasterNetwork.MAINNET
 const FID = 8304
 const account = mnemonicToAccount(env.MNEMONIC)
